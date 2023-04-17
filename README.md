@@ -1,3 +1,3 @@
 # DSMeta
 
-https://github.com/S4nt1ag/DSMeta
+https://s4nt1ag.github.io/DSMeta/
